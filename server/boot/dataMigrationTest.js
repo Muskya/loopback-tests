@@ -1,3 +1,5 @@
+'use strict';
+
 module.exports = function(app) {
   app.dataSources.mysqlIDs.automigrate('CoffeeShop', function(err) {
     if (err) throw err;

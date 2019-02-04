@@ -12,5 +12,15 @@
     "name": "mysqlIDs",
     "user": "root",
     "connector": "mysql"
+  },
+  "mysqlIDs2": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "lp_test2",
+    "password": "root",
+    "name": "mysqlIDs2",
+    "user": "root",
+    "connector": "mysql"
   }
 }
